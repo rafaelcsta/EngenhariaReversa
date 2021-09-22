@@ -1,4 +1,4 @@
-# EngenhariaReversa
+# Engenharia Reversa
 
 Este repositório tem o objetivo de expôr o contexto de uma invasão da perspectiva de um usuário inexperiênte.
 Os eventos aqui resgistrados ocorreram realmente com meu próprio PC Linux em Novembro de 2020.
